@@ -1,4 +1,3 @@
-
 # J-A-R-V-I-S (Voice Assistant) 🤖
 
 J-A-R-V-I-S is a simple voice assistant application that allows you to interact with an AI-powered backend and perform a range of tasks via voice commands. Built using Python, the assistant listens to your commands, processes them, and responds with appropriate feedback. This project includes features like text-to-speech, speech recognition, and AI-powered responses. 🗣️💬
