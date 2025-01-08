@@ -59,7 +59,7 @@ The Tkinter GUI will open, and you can start interacting with the assistant usin
 
 ## License 📜
 
-This project is open-source and available under the MIT License. See the [license](https://choosealicense.com/licenses/mit/) file for more details.
+This project is open-source and available under the MIT License. See the [license](https://github.com/sumitx99/J-A-R-V-I-S-Voice-assistant-/blob/main/LICENSE) file for more details.
 
 ## Contributing 🤝
 Feel free to contribute by creating issues or submitting pull requests. Make sure to follow the guidelines for contributing.
